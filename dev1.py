@@ -1,2 +1,2 @@
-print('Joao Vitor Rocha')
+print('Joao')
 print('oi')
